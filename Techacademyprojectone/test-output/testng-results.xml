@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-20T21:51:24 BST" name="AutomationAnywhereSuite" finished-at="2023-10-20T21:52:14 BST" duration-ms="50363">
+    <groups>
+    </groups>
+    <test started-at="2023-10-20T21:51:24 BST" name="AutomationAnywhereTest" finished-at="2023-10-20T21:52:14 BST" duration-ms="50363">
+      <class name="testing.Testngprogram4">
+        <test-method signature="checkLinks()[pri:1, instance:testing.Testngprogram4@66d3eec0]" started-at="2023-10-20T21:51:42 BST" name="checkLinks" finished-at="2023-10-20T21:52:14 BST" duration-ms="32401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLinks -->
+      </class> <!-- testing.Testngprogram4 -->
+      <class name="testing.Testngprogram3">
+        <test-method signature="checkLogoPresence()[pri:1, instance:testing.Testngprogram3@53fdffa1]" started-at="2023-10-20T21:51:24 BST" name="checkLogoPresence" finished-at="2023-10-20T21:51:30 BST" duration-ms="6284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogoPresence -->
+        <test-method signature="checkRequestDemoButton()[pri:2, instance:testing.Testngprogram3@53fdffa1]" started-at="2023-10-20T21:51:30 BST" name="checkRequestDemoButton" finished-at="2023-10-20T21:51:42 BST" duration-ms="11615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkRequestDemoButton -->
+      </class> <!-- testing.Testngprogram3 -->
+    </test> <!-- AutomationAnywhereTest -->
+  </suite> <!-- AutomationAnywhereSuite -->
+</testng-results>

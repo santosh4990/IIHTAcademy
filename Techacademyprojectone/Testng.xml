@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AutomationAnywhereSuite">
+    <test name="AutomationAnywhereTest">
+        <classes>
+            <class name="testing.Testngprogram3" />
+            <class name="testing.Testngprogram4" />
+        </classes>
+    </test>
+</suite>
